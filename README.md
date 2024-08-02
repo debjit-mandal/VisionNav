@@ -1,6 +1,8 @@
 
 # VisionNav
 
+![image](https://github.com/user-attachments/assets/6b2de43a-e4a1-4c49-99f2-005425f23ac4)
+
 VisionNav is a cutting-edge navigation system designed for visually impaired individuals, providing real-time guidance through voice commands. The system leverages advanced technologies such as OpenCV, SLAM, YOLO for object detection, and Text-to-Speech (TTS) to recognize indoor landmarks and obstacles, ensuring precise and safe navigation.
 
 ## Features
@@ -91,12 +93,6 @@ VisionNav is a cutting-edge navigation system designed for visually impaired ind
 - `README.md`: Project documentation.
 - `LICENSE`: License for the project.
 
-## Future Improvements
-
-- Implement robust multi-floor navigation with more advanced elevator recognition.
-- Enhance SLAM accuracy and performance for better localization.
-- Improve integration with Bluetooth beacons for precise indoor positioning.
-- Conduct extensive real-world testing and optimization for reliability and accuracy.
 
 ## Contributing
 
